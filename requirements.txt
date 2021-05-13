@@ -1,0 +1,6 @@
+ face_recognition
+ imutils
+ pickle
+ time
+  cv2
+ os
